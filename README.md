@@ -112,7 +112,8 @@ Prairie Card: https://my.prairie.cards/u/sudoakiy
 ### アウトプット
 
 - note: https://note.com/sudoakiy
-  - 100日チャレンジしてました（達成してます） https://note.com/sudoakiy/n/n330256ad26c5
+  - 100日チャレンジしてました（達成してます）
+  - https://note.com/sudoakiy/n/n330256ad26c5
 - Zenn: https://zenn.dev/sudoakiy
 
 ### アドベントカレンダー
