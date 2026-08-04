@@ -66,7 +66,8 @@ Prairie Card: https://my.prairie.cards/u/sudoakiy
 
 - [EM Conf JP 2025](https://2025.emconf.jp/) 当日スタッフ：2025.2.27
 - [EM Conf JP 2026](https://2026.emconf.jp/) コアスタッフ：2026.3.4
-- 大吉祥寺.pm 2026 コアスタッフ：2026.7.25
+- [大吉祥寺.pm 2026](https://kichijojipm.connpass.com/event/387499/) コアスタッフ：2026.7.25
+- [EM Conf JP 2027](https://2027.emconf.jp/) コアスタッフ：2027.X.XX
 
 ### Podcast
 
@@ -79,6 +80,10 @@ Prairie Card: https://my.prairie.cards/u/sudoakiy
 - [プロマネcast ～悩めるプロマネの駆け込み部屋～](https://open.spotify.com/show/0JSqOFHMxV9DIeeeMPVJ3J?si=4743d9f1be8c42c6)
   - #57 https://open.spotify.com/episode/1WEHC872HZSfyFrqtuEwy0?si=qvyctUCaR7OuR6vbS8KLMA
   - #58 https://open.spotify.com/episode/6UiLDhtpae1D6q9HpXErVi?si=LM8TbdtmT_-h6DE1Uld5jg
+- [Yokohama North AM - LISTEN](https://listen.style/p/yokohamanortham)
+  - [ep 171 @o0h_ @sudoakiyとYokohama North勉強会、各種カンファレンス、Podcastを続けるコツについて - Yokohama North AM - LISTEN](https://listen.style/p/yokohamanortham/b7epxxw1)
+  - [ep 172 @o0h_ @sudoakiyとアドベントカレンダー、登壇資料作成方法、面白い本との出会い方について - Yokohama North AM - LISTEN](https://listen.style/p/yokohamanortham/yfbhatrv)
+  - [ep 191 @magnolia_k_ @sudoakiy @ebi40510と大吉祥寺.pm 2026スペシャル - Yokohama North AM - LISTEN](https://listen.style/p/yokohamanortham/wib3u8ds)
 
 ### 登壇 / LT
 
@@ -108,6 +113,10 @@ Prairie Card: https://my.prairie.cards/u/sudoakiy
 
 - 2月 [吉祥寺.pm39【オンライン】 - connpass](https://kichijojipm.connpass.com/event/380003/)
   - [EMから現場に戻って見えた2026年の開発者視点 - Speaker Deck](https://speakerdeck.com/sudoakiy/emkaraxian-chang-nili-tutejian-eta2026nian-nokai-fa-zhe-shi-dian)
+- 4月 [アウトプットの背中を押すカンファレンス「ワンストップ　アウトプット！」 - connpass](https://onestop-output.connpass.com/event/379057/)
+  - [自分をひらくと次のチャレンジの敷居が下がる - Speaker Deck](https://speakerdeck.com/sudoakiy/zi-fen-wohirakutoci-notiyarensinofu-ju-kaxia-karu)
+- 4月 [コミュニティ・勉強会の作り方 - connpass](https://kaitou.connpass.com/event/383669/)
+  - [地域コミュニティイベントのはじめかた：横浜北部ソフトウェアエンジニア集いの場合 - Speaker Deck](https://speakerdeck.com/sudoakiy/di-yu-komiyuniteiibentonohazimekata-heng-bang-bei-bu-sohutoueaenziniaji-inochang-he)
 
 ### アウトプット
 
